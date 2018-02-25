@@ -1,2 +1,2 @@
 # urduva.github.io
-python
+HTML,  Django, Python programming tutorial
